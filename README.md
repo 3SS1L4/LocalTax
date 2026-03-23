@@ -5,7 +5,9 @@
 > Application Android — calcul de taxe locale
 
 <video src="assets/demo.mp4" controls width="1000"></video>
-
+<a href="assets/demo.mp4">
+  <img src="assets/preview.png" width="1000"/>
+</a>
 <br/><br/>
 
 ![Android](https://img.shields.io/badge/Android-API%2021%2B-3DDC84?style=flat-square\&logo=android\&logoColor=white)
