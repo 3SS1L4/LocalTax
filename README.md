@@ -4,8 +4,8 @@
 
 > Application Android — calcul de taxe locale
 
-<video src="[assets/demo.mp4](https://github.com/user-attachments/assets/fa3b44bc-cdda-42df-a696-a8d2519731ea
-)" controls width="1000"></video>
+<video src="https://github.com/user-attachments/assets/fa3b44bc-cdda-42df-a696-a8d2519731ea
+" controls width="1000"></video>
 
 <br/><br/>
 
