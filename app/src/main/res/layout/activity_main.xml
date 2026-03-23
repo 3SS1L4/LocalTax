@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1A1A1A"
+    android:padding="32dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOCALTAX"
+        android:textColor="#888888"
+        android:textSize="11sp"
+        android:letterSpacing="0.15"
+        android:layout_marginBottom="32dp" />
+
+    <EditText
+        android:id="@+id/input_surface"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:hint="Surface en m²"
+        android:inputType="numberDecimal"
+        android:textColor="#F0F0F0"
+        android:textColorHint="#555555"
+        android:backgroundTint="#333333"
+        android:padding="12dp"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="12dp" />
+
+    <EditText
+        android:id="@+id/input_pieces"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:hint="Nombre de pièces"
+        android:inputType="number"
+        android:textColor="#F0F0F0"
+        android:textColorHint="#555555"
+        android:backgroundTint="#333333"
+        android:padding="12dp"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="16dp" />
+
+    <CheckBox
+        android:id="@+id/checkbox_piscine"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="Piscine"
+        android:textColor="#AAAAAA"
+        android:buttonTint="#F0F0F0"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/button_calcul"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="calculer"
+        android:backgroundTint="#F0F0F0"
+        android:textColor="#1A1A1A"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="—"
+        android:textColor="#F0F0F0"
+        android:textSize="28sp"
+        android:fontFamily="monospace" />
+
+</LinearLayout>
