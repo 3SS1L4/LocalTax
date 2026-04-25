@@ -172,4 +172,4 @@ Résultat attendu :
 
 ## 👨‍🎓 Auteur
 
-AMSOU ISMAIL — Lab de développement mobile
+AMSOU ISMAIL — Lab de développement mobile 
